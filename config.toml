@@ -24,7 +24,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/about/"
-    name = "关于"
+    name = "介绍"
     weight = 2
 
 [[menu.main]]
